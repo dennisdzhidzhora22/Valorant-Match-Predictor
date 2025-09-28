@@ -1,3 +1,6 @@
+## Overview:
+This project predicts the probability of a team winning the game given a map selection, team compositions for both teams, and the current round score.
+
 ## Dependencies:
 To run this project, you will need to have [Anaconda](https://www.anaconda.com/download/) installed on your system. This project uses a dedicated Conda environment to manage dependencies and ensure reproducibility.
 
